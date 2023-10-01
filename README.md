@@ -1,22 +1,7 @@
-### Hi there 👋
-
-<!--
-**ouchgoutmohamed/ouchgoutmohamed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MOHAMED OUCHGOUT
 ========================================================================================================================================
 
-Full Stack Developer
+Software Engineering Student
 --------------------
 
 ### Skills
@@ -35,9 +20,8 @@ Full Stack Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ouchgoutmohamed"><img src="https://github-readme-stats.vercel.app/api?username=ouchgoutmohamed&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="ouchgoutmohamed's GitHub stats" /></a>
+<a href="http://www.github.com/ouchgoutmohamed"><img src="https://github-readme-stats.vercel.app/api?username=ouchgoutmohamed&show_icons=true&hide=issues,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&show_icons=true" alt="ouchgoutmohamed's GitHub stats" /></a>
 
-<a href="http://www.github.com/ouchgoutmohamed"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ouchgoutmohamed&bg_color=ffffff&color=000000&line=3382ed&point=000000&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/ouchgoutmohamed"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ouchgoutmohamed&stroke=ffffff&background=312e81&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/ouchgoutmohamed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchgoutmohamed&langs_count=10&title_color=ef4444&text_color=000000&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
--->
+<a href="https://github.com/ouchgoutmohamed" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ouchgoutmohamed&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=facc15&bg_color=312e81&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
