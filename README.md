@@ -10,7 +10,7 @@
 💬 Ask me about Python, AWS, or TensorFlow.
 
 ⚡ Fun fact: I’ve debugged code longer than I’d like to admit!
-#Languages and Tools :
+# Languages and Tools :
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" alt="aws"/>
