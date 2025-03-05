@@ -1,12 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is MOHAMED OUCHGOUT
-========================================================================================================================================
+# 💫 About Me:
+🔭 Currently working on scalable backend systems.
 
-Software Engineering Student
---------------------
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+👯 Open to collaboration on cloud or AI-driven projects.
 
+🤝 Seeking help with optimizing Docker & Kubernetes workflows.
+
+🌱 Learning the latest in backend dev and machine learning.
+
+💬 Ask me about Python, AWS, or TensorFlow.
+
+⚡ Fun fact: I’ve debugged code longer than I’d like to admit!
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
