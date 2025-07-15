@@ -1,88 +1,85 @@
-# 💫 About Me:
-🔭 Currently working on scalable backend systems.
 
-👯 Open to collaboration on cloud or AI-driven projects.
+# Hi there! 👋 I'm Mohamed Ouchgout
 
-🤝 Seeking help with optimizing Docker & Kubernetes workflows.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;I'm+a+passionate+developer;Always+learning+new+things;Let's+build+something+amazing!" alt="Typing SVG" />
+</div>
 
-🌱 Learning the latest in backend dev and machine learning.
+## 🚀 About Me
 
-💬 Ask me about Python, AWS, or TensorFlow.
+I'm a passionate  Software Engineer who loves creating innovative solutions and contributing to open-source projects. I enjoy tackling complex problems and turning ideas into reality through code.
 
-⚡ Fun fact: I’ve debugged code longer than I’d like to admit!
-# Languages and Tools :
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=plastic&logo=amazon-aws&logoColor=white" alt="aws"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-C-A8B9CC?style=plastic&logo=c&logoColor=white" alt="c"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&logo=css3&logoColor=white" alt="css3"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=plastic&logo=docker&logoColor=white" alt="docker"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Figma-F24E1E?style=plastic&logo=figma&logoColor=white" alt="figma"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black" alt="firebase"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-GCP-4285F4?style=plastic&logo=google-cloud&logoColor=white" alt="gcp"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Git-F05032?style=plastic&logo=git&logoColor=white" alt="git"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white" alt="java"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black" alt="javascript"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=plastic&logo=kotlin&logoColor=white" alt="kotlin"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=plastic&logo=kubernetes&logoColor=white" alt="kubernetes"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Linux-FCC624?style=plastic&logo=linux&logoColor=black" alt="linux"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white" alt="mysql"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Oracle-F80000?style=plastic&logo=oracle&logoColor=white" alt="oracle"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas&logoColor=white" alt="pandas"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white" alt="python"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=plastic&logo=react&logoColor=black" alt="react"/>
-  </a>
-  <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-Sketch-FFB400?style=plastic&logo=sketch&logoColor=black" alt="sketch"/>
-  </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=plastic&logo=tensorflow&logoColor=white" alt="tensorflow"/>
-  </a>
-</p>
+- 🔭 I'm currently working on backend systems.
+- 🌱 I'm currently learning backend dev and machine learning
+- 👯 I'm looking to collaborate on AI-driven projects.
+- 💬 Ask me about java,Python
+- ⚡ Fun fact: I’ve debugged code longer than I’d like to admit!
 
-## 🌐 Socials:
+## 🛠️ Tech Stack
 
-<p align="left"> <a href="https://www.github.com/ouchgoutmohamed" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/o.mohamed.22" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/mohamed-ouchgout-594184222" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+### Backend
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+
+### Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### Tools 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=ouchgoutmohamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ouchgoutmohamed&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ouchgoutmohamed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🌐 Connect with Me
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/yourhandle" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" />
+  </a>
+</div>
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Random Dev Quote" />
+</div>
+
+
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ouchgoutmohamed&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <h3>✨ Thanks for visiting my profile! Let's connect and build something amazing together! ✨</h3>
+</div>
